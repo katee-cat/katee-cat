@@ -1,16 +1,18 @@
-## Hi there 👋
+# Junior Business Analyst*
+*I'm still learning
 
-<!--
-**katee-cat/katee-cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Key Skills
+* **Requirements:** Elicitation, User Stories (INVEST), Use Cases, and Change Management.
+* **Technical:** SQL, Git, and SDLC (Agile/Scrum/Kanban).
 
-Here are some ideas to get you started:
+## Hobbies & Interests:
+* Yoga
+* Rockclimbing
+* Reading
+* Pets
+* Mindfullness
+* English learning
+* House plants
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+

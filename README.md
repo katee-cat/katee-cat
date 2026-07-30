@@ -10,7 +10,7 @@
 * Rockclimbing
 * Reading
 * Pets
-* Mindfullness
+* Mindfulness
 * English learning
 * House plants
 
